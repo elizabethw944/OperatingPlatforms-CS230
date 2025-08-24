@@ -1,6 +1,6 @@
 For this project, the client was The Gaming Room, they requested a design for a web-based game called Draw It or Lose It, that would work across multiple platforms while supporting multiplayer functionality.
 They needed features like unique player and team identifiers, single-instance control to avoid duplication, while also making sure the game would scale smoothly even as the player base grew. 
-One area I fel I did well was being able to explain technical ideas or details  in a clear way. I tried to make some of the more complex ideas like storage managment, distributed systems, and security 
+One area I feel I did well was being able to explain technical ideas or details in a clear way. I tried to make some of the more complex ideas like storage managment, distributed systems, and security 
 easier to understand for both technical and non-technical audiences. 
 Working through the design document, I found that it helped me think through each step of the software's structure and development. Creating a detailed design helped me think more about potential problems and 
 ways to address those issues early on which would helps make the overall build more efficient.
